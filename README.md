@@ -1,5 +1,3 @@
-#HC2-GNN
-
 HC2-GNN (Hierarchical Clustering and Coarsening Graph Neural Network) is a graph-based text classification framework designed to improve structural modeling efficiency and preserve both local and global contextual information.
 
 Overview
